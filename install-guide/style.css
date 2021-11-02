@@ -1,0 +1,14 @@
+@font-face { font-family: nkwFont; src: url('data/bahn.ttf'); }
+body {
+  font-family: nkwFont;
+}
+.nav{
+  color: #FFF;
+}
+a{
+  color: #fff;
+  text-decoration: none;
+}
+*{
+  background-color: #1f1f1f;
+}
